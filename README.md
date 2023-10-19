@@ -12,6 +12,8 @@ This dashboard was created to help the HR at PwC on employee talents, background
 
 ![image](https://github.com/Temitope-odeyemi/PwC-PowerBI-Virtual-Case-Experience--Forage/assets/113670117/678e7a95-41b8-445c-a3be-9ed8472237e4)
 
+# To see the enitire analysis for these task, please click on this [link]([url](https://bit.ly/3ZYm6GD )) [https://bit.ly/3ZYm6GD](url) 
+
 
 
 
